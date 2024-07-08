@@ -3,4 +3,5 @@
 
 -->All login and database details are mentioned in the explanation.txt
 
+-->This website is developed using Html, Css, Bootstrap, javascript, Ajax, PHP, mysql
 
